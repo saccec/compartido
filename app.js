@@ -1,3 +1,3 @@
 function calcularDescuento(precio) {
-    return precio * 0.85;
+    return precio * 0.95;
 }
